@@ -1,0 +1,17 @@
+column_name,null_count
+total_onshift_dashers,16262
+total_busy_dashers,16262
+total_outstanding_orders,16262
+store_primary_category,4760
+order_protocol,995
+market_id,987
+estimated_store_to_consumer_driving_duration,526
+actual_delivery_time,7
+created_at,0
+store_id,0
+total_items,0
+subtotal,0
+num_distinct_items,0
+min_item_price,0
+max_item_price,0
+estimated_order_place_duration,0
